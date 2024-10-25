@@ -52,6 +52,5 @@ Create a .env.local file in the root directory and add the following variables:
 
 ### Acknowledgments
 - Inspired by the need for better financial management tools.
-- Thanks to the open-source community for the libraries and frameworks used.
 
 Feel free to adjust any sections as needed, such as the repository URL, deployment link, or any specific instructions related to your app
