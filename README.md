@@ -24,23 +24,19 @@ Make sure you have the following installed on your machine:
 - PostgreSQL (for local database setup)
 
 ### Clone the Repository
-    ```bash
     git clone https://github.com/your-username/client-financial-management.git
     cd client-financial-management
 
 ### Set Up Environment Variables
 Create a .env.local file in the root directory and add the following variables:
 
-    ```bash
     DATABASE_URL=your_postgresql_connection_string
     NEXT_PUBLIC_API_URL=http://localhost:3000/api
 
 ### Install Dependencies
-    ```bash
     npm install
 
 ### Run the Application
-    ```bash
     npm run dev
 
 - Open http://localhost:3000 in your browser to access the app.
